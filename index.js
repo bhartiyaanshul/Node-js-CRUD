@@ -77,6 +77,6 @@ app.delete('/softdeletepost',(req,res)=>{
     
 })
 app.listen(5001, () => {
-    console.log("App is Started")
+    console.log("App is Started in 5001")
 })
 
